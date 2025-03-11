@@ -10,6 +10,6 @@ Hi, My name is Alex and and this portfolio showcases my projects and skills, hig
 * R
     * [Audiometer Analysis](https://github.com/low-alex/data_analyst_portfolio/tree/main/Audiometer)
 * Tableau
-    * [Formula1 Dashboard]()
+    * [Formula1 Dashboard](https://public.tableau.com/app/profile/alex.low7956/viz/f1_workbook/Formula1Dashboard?publish=yes)
 
 Feel free to explore my work!
