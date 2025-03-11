@@ -1124,7 +1124,7 @@ ORDER BY rac.`name`
 
 
 ## 6. Tableau Dashboards
-The results of our queries in [Section 5](#5-exploratory-data-analysis) is visualized in tableau dashboards and can be found here: url 
+The results of our queries in [Section 5](#5-exploratory-data-analysis) is visualized in tableau dashboards and can be found here: https://public.tableau.com/app/profile/alex.low7956/viz/f1_workbook/Formula1Dashboard?publish=yes 
 
 
 ## 7. Summary
